@@ -1,6 +1,7 @@
 # howtolearnspark
-https://www.zhihu.com/question/26707124/answer/77249718
-https://www.zhihu.com/question/39078198
+#https://www.zhihu.com/question/26707124/answer/77249718   \n
+
+#https://www.zhihu.com/question/39078198
 
  陈晓宇 算法工程师
 35 人赞同
